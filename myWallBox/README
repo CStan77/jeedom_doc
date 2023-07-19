@@ -1,0 +1,7 @@
+2021-09-28 19:15:40	netatmopro	cron5:: ex:'Netatmo\\Exceptions\\NAApiErrorType - Netatmo\\Exceptions\\NAApiErrorType - 503 - Service Unavailable'		2
+2021-09-13 03:20:17	netatmopro	cron5:: ex:'Netatmo\\Exceptions\\NAApiErrorType - Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'
+
+
+FIRMWARE camera
+3 002 003 => 3.2.3
+2 020 000 => 2.20.0
