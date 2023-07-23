@@ -12,10 +12,10 @@ Surveillez le statut de votre chargeur et contrôlez-le à distance où que vous
 Protégez votre chargeur afin d’empêcher toute utilisation non désirée <br>
 
 ## Capture d'écran
-L'équipement : <br>
+L'équipement Wallbox et ces informations : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/equipement.png">
 
-Les commandes : <br>
+Les commandes et informations disponibles : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/commandes.png">
 
 Le widget : <br>
