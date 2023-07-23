@@ -25,8 +25,18 @@ Le widget : <br>
 2. Le chargeur est verrouiller et libre : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_attente_verrouiller.png">
 
-3. Le chargeur est déverrouiller et charge de la voiture : <br>
+3. Le chargeur est déverrouiller et charge la voiture : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_charge_deverrouiller.png">
+
+4. Le chargeur est verrouiller et charge la voiture : <br>
+<img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_charge_verrouiller.png">
+
+5. Le chargeur est déverrouiller et en pause avec la voiture branchée : <br>
+<img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_pause_deverrouiller.png">
+
+6. Le chargeur est verrouiller et en pause avec la voiture branchée : <br>
+<img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_pause_verrouiller.png">
+
 ---
 
 <h3 align="left">Languages et outils :</h3>
