@@ -1,4 +1,6 @@
 # Changelog myWallBox plugin
+IMPORTANT<br>
+Pour rappel s’il n’y a pas d’information sur la mise à jour, c’est que celle-ci concerne uniquement de la mise à jour de documentatio
 
 # 17/07/2023 (1.0 Beta)
 
