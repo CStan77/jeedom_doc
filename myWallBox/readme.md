@@ -18,9 +18,13 @@ L'équipement Wallbox et ces informations : <br>
 Les commandes et informations disponibles : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/commandes.png">
 
+La tuile Jeedom de l'équipement : <br>
+1. Le chargeur est déverrouiller et libre : <br>
+<img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/tuile_en_attente_deverrouiller.png">
+
 Le widget : <br>
 1. Le chargeur est déverrouiller et libre : <br>
-<img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_attente.png">
+<img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_attente_deverrouiller.png">
 
 2. Le chargeur est verrouiller et libre : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_attente_verrouiller.png">
