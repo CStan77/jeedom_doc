@@ -1,5 +1,5 @@
 <h1 align="center">Plugin Jeedom myWallBox</h1>
-<h3 align="right"><img alt="myWallBox" src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/wallbox_icon.png"></h3>
+<h1 align="right"><img alt="myWallBox" src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/wallbox_icon.png"></h1>
 
 ## Présentation du plugin
 Le plugin **myWallBox** reprend les principales fonctions de l'application du constructeur _Wallbox_. <br>
