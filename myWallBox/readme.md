@@ -18,6 +18,9 @@ L'équipement Wallbox et ces informations : <br>
 Les commandes et informations disponibles : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/commandes.png">
 
+## Templates de l'équipement
+Il est possible de modifier l'apparence du widget de l'équipement à partir de sa page d'information.<br>
+
 La tuile Jeedom de l'équipement : <br>
 1. Le chargeur est déverrouiller et libre : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/tuile_en_attente_deverrouiller.png">
