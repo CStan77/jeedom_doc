@@ -3,7 +3,7 @@
 
 ## Présentation du plugin
 Le plugin **myWallBox** reprend les principales fonctions de l'application du constructeur _Wallbox_. <br>
-Une fois le plugin installé via le market, il vous faut renseigner vos informations de connexions que vous utilisez sur l'application _myWallBox_. <br>
+Une fois le plugin installé via le market, il vous faut renseigner vos informations de connexion que vous utilisez sur l'application _myWallBox_. <br>
 Ces informations sont liées à votre compte _myWallBox_ :
   - Nom d'utilisateur
   - Mot de passe
@@ -12,7 +12,7 @@ Surveillez le statut de votre chargeur et contrôlez-le à distance où que vous
 Protégez votre chargeur afin d’empêcher toute utilisation non désirée <br>
 
 ## Capture d'écran
-L'équipement Wallbox et ces informations : <br>
+L'équipement Wallbox et ses informations : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/equipement.png">
 
 Les commandes et informations disponibles : <br>
@@ -22,26 +22,26 @@ Les commandes et informations disponibles : <br>
 Il est possible de modifier l'apparence du widget de l'équipement à partir de sa page d'information.<br>
 
 La tuile Jeedom de l'équipement : <br>
-1. Le chargeur est déverrouiller et libre : <br>
+1. Le chargeur est déverrouillé et libre : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/tuile_en_attente_deverrouiller.png">
 
 Le widget : <br>
-1. Le chargeur est déverrouiller et libre : <br>
+1. Le chargeur est déverrouillé et libre : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_attente_deverrouiller.png">
 
-2. Le chargeur est verrouiller et libre : <br>
+2. Le chargeur est verrouillé et libre : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_attente_verrouiller.png">
 
-3. Le chargeur est déverrouiller et charge la voiture : <br>
+3. Le chargeur est déverrouillé et charge la voiture : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_charge_deverrouiller.png">
 
-4. Le chargeur est verrouiller et charge la voiture : <br>
+4. Le chargeur est verrouillé et charge la voiture : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_charge_verrouiller.png">
 
-5. Le chargeur est déverrouiller et en pause avec la voiture branchée : <br>
+5. Le chargeur est déverrouillé et en pause avec la voiture branchée : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_pause_deverrouiller.png">
 
-6. Le chargeur est verrouiller et en pause avec la voiture branchée : <br>
+6. Le chargeur est verrouillé et en pause avec la voiture branchée : <br>
 <img src="https://github.com/CStan77/jeedom_doc/blob/main/myWallBox/img/widget_en_pause_verrouiller.png">
 
 ---
