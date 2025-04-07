@@ -1,5 +1,8 @@
 # Changelog myWallBox plugin
 
+# 07/04/025 (1.3)
+- Ajout du numéro de version du plugin
+
 # 17/03/2024 (1.2)
 - Ajout du lien Community dans la page de configuration des équipements
 - Télécharge les images des wallbox car sur certaines version de Jeedom le 'Content Security Policy' bloque l'accès à l'API
@@ -15,3 +18,4 @@
 - Initialisation du projet
 - Récupération des informations d'un charger
 - Ajouts d'éléments d'informations et de paramètres pour les commandes
+
